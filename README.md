@@ -1,4 +1,4 @@
-# Flower Detection Project
+# Flower Detection/Recognition Project
 
 This flower detection project is built using Python, Flask, TensorFlow, and NumPy. The model was trained over 3000+ datasets of flower images, and it can now accurately identify 10 different types of flowers. The project is deployed as a web application, where users can upload images of flowers, and the model will predict the type of flower.
 
